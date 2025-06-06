@@ -100,7 +100,3 @@ def main():
     print("Obrigado por usar nosso sistema bancário!")
 
 main()
-# if __name__ == "__main__":
-    # main()
-    
-
